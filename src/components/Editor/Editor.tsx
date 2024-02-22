@@ -12,6 +12,7 @@ const Editor: React.FC<Props> = ({ children }) => {
 
   const uploadEmailTemplateAssetsUrlToBucket = async () => {
     // implementation here
+    // console.log("123")
   }
   const getEmailTemplateAssetsUrlFromBucket = async () => {
     // implementation here
